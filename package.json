@@ -1,14 +1,18 @@
 {
   "name": "sikrit",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "bin": {
-    "sikrit": "index.js"
+    "sikrit": "bin/index"
   },
   "publishConfig": {
     "access": "public"
   },
+  "files": [
+    "bin/",
+    "index.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
