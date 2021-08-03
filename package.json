@@ -1,6 +1,6 @@
 {
   "name": "sikrit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -16,6 +16,9 @@
     "password",
     "generator"
   ],
+  "repository": {
+    "url": "https://github.com/bllyanos/sikrit"
+  },
   "author": "bllyanos",
   "license": "ISC",
   "dependencies": {

@@ -4,7 +4,7 @@ const fs = require("fs");
 const os = require("os");
 const path = require("path");
 
-program.version("1.0.0");
+program.version("1.0.1");
 
 const alphabet = "abcdefghijklmnopqrstuvwxyz";
 const alphabetUpper = alphabet.toUpperCase();
